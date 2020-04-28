@@ -1,0 +1,22 @@
+{
+    "name": "Selamat Datang di Corona - Apps",
+    "short_name": "Corona Apps",
+    "description": "Aplikasi Pantau Corona",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#00838f",
+    "theme_color": "#00838f",
+    "icons": [
+        {
+            "src": "image/covid-19.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "image/covid-19.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+  "gcm_sender_id": "349119934523"
+}
